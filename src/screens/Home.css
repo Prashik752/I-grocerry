@@ -1,0 +1,7 @@
+.gradient-text {
+    background: linear-gradient(to right, #ff9900, #ff5722); /* You can adjust the gradient colors here */
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    text-align: center;
+  }

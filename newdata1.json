@@ -1,0 +1,243 @@
+[
+    {
+        "CategoryName": "Vegetables",
+        "name": "Tomato",
+        "img": "https://images.healthshots.com/healthshots/en/uploads/2023/06/29111805/tomato-1-1600x900.jpg",
+        "options": [
+            {
+                "gram": "15",
+                "kilogram": "30"
+            }
+        ],
+        "description": "Fresh and ripe tomatoes for cooking and sala"
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Spinach",
+        "img": "https://static.toiimg.com/thumb/msid-67367305,width-1280,resizemode-4/67367305.jpg",
+        "options": [
+            {
+                "gram": "12",
+                "kilogram": "25"
+            }
+        ],
+        "description": "Nutritious and tender spinach leaves for various recip"
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Apple",
+        "img": "https://5.imimg.com/data5/MG/WX/MY-1600400/fresh-apple-500x500.jpg",
+        "options": [
+            {
+                "half_dozen": "50",
+                "full_dozen": "100"
+            }
+        ],
+        "description": "Juicy and sweet apples for a healthy snack."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Banana",
+        "img": "https://c.ndtvimg.com/2019-04/dl9g6gn8_bananas_625x300_11_April_19.jpg",
+        "options": [
+            {
+                "half_dozen": "30",
+                "full_dozen": "60"
+            }
+        ],
+        "description": "Fresh and ripe bananas, a perfect energy booster."
+    },
+    {
+        "CategoryName": "Herbs",
+        "name": "Basil",
+        "img": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/Food-Nutrition/1296x728_Holy_Basil.jpg?w=1155&h=1528",
+        "options": [
+            {
+                "half": "10",
+                "full": "20"
+            }
+        ],
+        "description": "Aromatic and flavorful basil leaves for culinary us"
+    },
+    {
+        "CategoryName": "Herbs",
+        "name": "Mint",
+        "img": "https://theaffordableorganicstore.com/wp-content/uploads/2021/06/1713181721.jpg",
+        "options": [
+            {
+                "half": "8",
+                "full": "15"
+            }
+        ],
+        "description": "Refreshing and cooling mint leaves for beverages and dish"
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Potato Chips",
+        "img": "https://rukminim1.flixcart.com/image/850/1000/kqe3low0/chips/q/s/i/200-home-made-raw-potato-chips-dry-potato-chips-fryums-crunchy-original-imag4f9tzfenhny9.jpeg?q=20",
+        "options": [
+            {
+                "half": "20",
+                "full": "40"
+            }
+        ],
+        "description": "Crispy and tasty potato chips for snacking."
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Mixed Nuts",
+        "img": "https://royalfantasy.in/cdn/shop/products/Mix-Special-1.jpg?v=1627473753",
+        "options": [
+            {
+                "half": "160",
+                "full": "220"
+            }
+        ],
+        "description": "Assorted mixed nuts for a healthy and flavorful snack."
+    },
+    {
+        "CategoryName": "Beauty & Hygiene",
+        "name": "Shampoo",
+        "img": "https://static.beautytocare.com/media/catalog/product/cache/global/image/1300x1300/85e4522595efc69f496374d01ef2bf13/l/-/l-oreal-professionnel-serie-expert-chroma-creme-blue-shampoo-500ml.jpg",
+        "options": [
+            {
+                "half": "75",
+                "full": "150"
+            }
+        ],
+        "description": "Gentle and nourishing shampoo for healthy hair."
+    },
+    {
+        "CategoryName": "Beauty & Hygiene",
+        "name": "Toothpaste",
+        "img": "https://cdn.accentuate.io/268960727085/11792706109485/natural-fluoride-toothpaste-v1649232018980.jpg?800x617",
+        "options": [
+            {
+                "half": "65",
+                "full": "130"
+            }
+        ],
+        "description": "Fluoride toothpaste for strong and healthy teeth."
+    },
+
+    {
+        "CategoryName": "Vegetables",
+        "name": "Cucumber",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/40288289_1-optimal-seeds-salad-cucumber-vegetable-seeds.jpg",
+        "options": [
+            {
+                "gram": "18",
+                "kilogram": "35"
+            }
+        ],
+        "description": "Fresh and crunchy cucumbers, perfect for salads and sandwiches."
+    },
+    {
+        "CategoryName": "Vegetables",
+        "name": "Carrot",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/10000270_13-fresho-carrot-ooty.jpg",
+        "options": [
+            {
+                "gram": "50",
+                "kilogram": "120"
+            }
+        ],
+        "description": "Sweet and nutritious carrots, great for snacking and cooking."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Orange",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/20000910_12-fresho-orange-imported.jpg",
+        "options": [
+            {
+                "half_dozen": "80",
+                "full_dozen": "140"
+            }
+        ],
+        "description": "Juicy and tangy oranges, rich in vitamin C for a healthy boost."
+    },
+    {
+        "CategoryName": "Fruits",
+        "name": "Pineapple",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/10000156_21-fresho-pineapple.jpg",
+        "options": [
+            {
+                "half_dozen": "130",
+                "full_dozen": "160"
+            }
+        ],
+        "description": "Sweet and tropical pineapples, great for refreshing fruit salads."
+    },
+    {
+        "CategoryName": "Herbs",
+        "name": "Rosemary",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/40026326_2-fresho-rosemary.jpg",
+        "options": [
+            {
+                "half": "12",
+                "full": "24"
+            }
+        ],
+        "description": "Fragrant and aromatic rosemary leaves for enhancing your dishes."
+    },
+    {
+        "CategoryName": "Herbs",
+        "name": "Thyme",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/40026327_2-fresho-thyme.jpg",
+        "options": [
+            {
+                "half": "10",
+                "full": "18"
+            }
+        ],
+        "description": "Earthy and versatile thyme leaves, a staple in many cuisines."
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Popcorn",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/311782_1-act-ii-microwave-popcorn-value-pack-butter-lovers.jpg",
+        "options": [
+            {
+                "half": "55",
+                "full": "100"
+            }
+        ],
+        "description": "Light and fluffy popcorn, a classic movie night treat."
+    },
+    {
+        "CategoryName": "Snacks",
+        "name": "Chocolate Bar",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/40029987_19-cadbury-choclairs-gold-birthday-pack.jpg",
+        "options": [
+            {
+                
+                "full": "40"
+            }
+        ],
+        "description": "Rich and indulgent chocolate bar, perfect for satisfying cravings."
+    },
+    {
+        "CategoryName": "Beauty & Hygiene",
+        "name": "Body Wash",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/40234006_3-lux-fragrant-skin-body-wash-black-orchid-scent-juniper-oil-with-glycerine.jpg",
+        "options": [
+            {
+               
+                "full": "220"
+            }
+        ],
+        "description": "Refreshing and moisturizing body wash for a luxurious shower experience."
+    },
+    {
+        "CategoryName": "Beauty & Hygiene",
+        "name": "Deodorant",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/40247430_3-ramsons-midnight-eau-de-parfum-for-a-long-lasting-impression-feel-fresh.jpg",
+        "options": [
+            {
+                
+                "full": "350"
+            }
+        ],
+        "description": "Long-lasting deodorant to keep you feeling fresh throughout the day."
+    }
+]

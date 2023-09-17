@@ -1,0 +1,74 @@
+.App {
+    text-align: center;
+  }
+
+  .gradient-text {
+    background: linear-gradient(to right, #96d3c8, #9ed3d3df); /* You can adjust the gradient colors here */
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .category-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .category-image {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  .category-name-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #ff9900, #ff5722);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+
+  
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  

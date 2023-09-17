@@ -1,0 +1,14 @@
+.home-button {
+    background: linear-gradient(45deg, #33fffc, #3246a8);
+    border-radius: 1rem;
+    height: fit-content;
+    width: fit-content;
+  }
+/* Assuming you have imported Akaya Kanadaka font using @font-face or via link tag in the HTML */
+.spanStyle{
+  font-family: "Akaya Kanadaka", sans-serif; /* Replace "sans-serif" with a fallback font family if the font fails to load */
+  font-weight: bold;
+  margin-left: 1rem;
+  width: 200px; /* Set your desired width here */
+}
+  
